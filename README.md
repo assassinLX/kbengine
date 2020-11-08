@@ -1,4 +1,4 @@
-KBEngine
+KBEngine游戏服务端框架
 ========
 
 [![Build Status](https://travis-ci.org/kbengine/kbengine.svg)](https://travis-ci.org/kbengine/kbengine)
